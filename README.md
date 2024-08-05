@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebchi-crtl
 - 👀 I’m primarily a backend developer 
 - 💞️ I’m looking to collaborate on projects, remote and full-time jobs
-- 📫 How to reach me @ chiemelienwobodo8@gmail.com or call @ +2347034707850
+- 📫 How to reach me @ chiemelienwobodo8@gmail.com
 
 
 <!---
